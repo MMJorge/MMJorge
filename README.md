@@ -19,7 +19,7 @@ A lo largo de mi trayectoria académica y profesional, me he formado en el estud
 ## :mag_right: Dónde encontrarme
 
 [![Gmail Badge](https://img.shields.io/badge/-jorgemmunin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgemmunin@gmail.com)](mailto:jorgemmunin@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-jorgemartinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgemartínezmuñiz)](https://www.linkedin.com/in/jorgemartínezmuñiz)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin/jorgemartinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorgemartínezmuñiz)](https://www.linkedin.com/in/jorgemartínezmuñiz)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mmjorge)](https://github.com/mmjorge)
 
 
